@@ -1,3 +1,3 @@
 # gMA-unnecessaryRepo
 
-### Show Files belong in the 'show' Folder
+### Show Files belong to the 'show' Folder
